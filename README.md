@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I think im not a person**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: @tar_ajasih </h3>
 <p align="left">
 </p>
 
