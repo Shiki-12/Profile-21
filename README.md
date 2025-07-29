@@ -10,7 +10,7 @@
     </td>
     <td width="30%">
       <div align="right">
-        <img src="https://i.gifer.com/B14q.gif" alt="Serial Experiments Lain GIF" />
+        <img src="banner.png" />
       </div>
     </td>
   </tr>
