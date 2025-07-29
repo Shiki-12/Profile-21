@@ -14,7 +14,7 @@
 
 * 🔭 Saat ini lagi fokus ngerjain **[Nama Proyek Sekolah]**, sebuah proyek tentang [deskripsi singkat proyek].
 * 🌱 Lagi semangat-semangatnya belajar **Laravel** untuk *backend* dan **UI/UX Design** pakai **Figma**.
-* 👨‍💻 Semua karyaku yang lain bisa kamu lihat di **[Repositories GitHub-ku](https://github.com/FatarGz?tab=repositories)**.
+* 👨‍💻 Semua karyaku yang lain bisa kamu lihat di **[Repositories GitHub-ku](https://github.com/shiki-12?tab=repositories)**.
 * 💬 Tanya aku soal **PHP, Laravel, atau rekomendasi anime isekai terbaru!**
 * 📫 Cara terbaik buat menghubungiku via email di **fatar.gaza21@gmail.com**.
 * ⚡ *Fun Fact*: Terkadang aku merasa dunia ini hanyalah sebuah simulasi.
@@ -35,11 +35,11 @@
 
 <div align="center">
 
-[![Fatar's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatarGz&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![shiki-12's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiki-12&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatarGz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiki-12&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FatarGz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shiki-12&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
