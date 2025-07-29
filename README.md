@@ -20,10 +20,10 @@
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2d4dWw5Z2V1a29uN3JqdXJzY3l6dGRyZ3RxY2w0Zmh2b292b216eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ie2yK9P7V9eZ2/giphy.gif" width="25" /> About Me
 
-* 🔭 Lagi fokus menyelesaikan **[Nama Proyek Sekolah]**, sebuah proyek tentang [deskripsi singkat proyek].
-* 🌱 Semangat belajar **Laravel** untuk backend dan mendalami **UI/UX Design** dengan **Figma**.
-* 👨‍💻 Cek semua karyaku yang lain di **[GitHub Repositories](https://github.com/shiki-12?tab=repositories)**.
-* 💬 Boleh banget tanya-tanya soal **PHP, Laravel, atau kita diskusi kenapa Lain itu masterpiece!**
+* 🔭 Lagi fokus menyelesaikan **[Sekolah]**.
+* 🌱 Semangat belajar **PHP** untuk backend dan mendalami **UI/UX Design** dengan **Figma**.
+* 👨‍💻 Cek repository ku yang lain di **[GitHub Repositories](https://github.com/shiki-12?tab=repositories)**.
+* 💬 Boleh banget tanya-tanya soal **PHP, Laravel, and the other things!**
 * 📫 Hubungi aku via email di **fatar.gaza21@gmail.com**.
 * ⚡ *Fun Fact*: *And you don't seem to understand...*
 
