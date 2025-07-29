@@ -1,27 +1,54 @@
-<h1 align="center">Hi 👋, I'm FatarGz</h1>
-<h3 align="center">I'm just a person who like in 2D</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="banner.png">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTY0ejZwdHRtOHFmcnFkdzB5NHg4dDF2ZGJzZWN5MGRsNjFqdHBtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ARSp9T7wwxNcs/giphy.gif" width="600" />
 
-- 🔭 I’m currently working on **Project in school**
+# Hi there, I'm FatarGz 👋
 
-- 🌱 I’m currently learning **Laravel,UI&UX**
+### A passionate developer from Indonesia who believes in the supremacy of 2D characters and clean code.
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+</div>
 
-- 💬 Ask me about **Anything**
+---
 
-- 📫 How to reach me **fatar.gaza21@gmail.com**
+### 🚀 About Me
 
-- ⚡ Fun fact **I think im not a person**
+* 🔭 Saat ini lagi fokus ngerjain **[Nama Proyek Sekolah]**, sebuah proyek tentang [deskripsi singkat proyek].
+* 🌱 Lagi semangat-semangatnya belajar **Laravel** untuk *backend* dan **UI/UX Design** pakai **Figma**.
+* 👨‍💻 Semua karyaku yang lain bisa kamu lihat di **[Repositories GitHub-ku](https://github.com/FatarGz?tab=repositories)**.
+* 💬 Tanya aku soal **PHP, Laravel, atau rekomendasi anime isekai terbaru!**
+* 📫 Cara terbaik buat menghubungiku via email di **fatar.gaza21@gmail.com**.
+* ⚡ *Fun Fact*: Terkadang aku merasa dunia ini hanyalah sebuah simulasi.
 
-<h3 align="left">Connect with me: @tar_ajasih </h3>
-<p align="left">
+---
+
+### 🛠️ Languages & Tools I Use
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,html,css,js,react,nextjs,mysql,nginx,figma,photoshop,git,linux&perline=7" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiki-12&show_icons=true&locale=en&layout=compact" alt="shiki-12" /></p>
+### 📊 My GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiki-12&show_icons=true&locale=en" alt="shiki-12" /></p>
+<div align="center">
+
+[![Fatar's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatarGz&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatarGz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FatarGz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://instagram.com/tar_ajasih" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  </p>
